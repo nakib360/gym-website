@@ -1,1 +1,1 @@
-site link:- https://na-kib.github.io/gym-website/
+[Live link](https://nakib360.github.io/gym-website/)
